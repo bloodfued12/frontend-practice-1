@@ -12,7 +12,7 @@ This project is here to help practice my skills as a frontend webdeveloper takin
 - Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
 I built this site since it's relatively simple looking but will allow me to familiarise myself with the concepts that were covered in my recent course.
 
-
+![]
 - What did you learn?
 
 
