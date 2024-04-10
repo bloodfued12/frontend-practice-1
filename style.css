@@ -1,0 +1,14 @@
+header{
+    display: flex;
+}
+#site-logo, #headline {
+    justify-content: flex-start;
+}
+main {
+    text-align: center;
+}
+.upper{
+    height: 144px;
+    margin-top: 120px;
+    padding-top: 40px;;
+}
